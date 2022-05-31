@@ -1,6 +1,15 @@
 ## Welcome to Renuka Prasad Profile
 
-You can use the [editor on GitHub](https://github.com/Renups8048/renuka-prasad-s.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+• MSC Data Analytics with overall 6+ years of IT experience.
+• Expertise in application support and development.
+• Expertise in Building CI/CD pipeline.
+• Expertise in ETL and batch processing.
+• Worked in E-commerce, Retail, and manufacturing industries, handling multiple high-value, time- 
+ critical, fast-paced applications.
+• Proficient at managing priorities, working with stakeholders, exhibiting strong customer service 
+ skills, and have strong technical skills across a range of technologies and platforms.
+• Seeking to secure a position where application support/development and data analytics skills can 
+ be well utilized.
 
 Whenever cool [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
