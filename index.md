@@ -11,11 +11,10 @@
 • Seeking to secure a position where application support/development and data analytics skills can 
  be well utilized.
 
-Whenever cool [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Technical Skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Python Frameworks like Flask ,Django and FastApi
 
 ```markdown
 Syntax highlighted code block
