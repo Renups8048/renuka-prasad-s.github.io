@@ -1,13 +1,20 @@
 ## Welcome to Renuka Prasad Profile
+# I am working as a researcher in national university of Ireland and I am open to work in research field like data science and the computer science.
 
 • MSC Data Analytics with overall 6+ years of IT experience.
+
 • Expertise in application support and development.
+
 • Expertise in Building CI/CD pipeline.
+
 • Expertise in ETL and batch processing.
+
 • Worked in E-commerce, Retail, and manufacturing industries, handling multiple high-value, time- 
  critical, fast-paced applications.
+ 
 • Proficient at managing priorities, working with stakeholders, exhibiting strong customer service 
  skills, and have strong technical skills across a range of technologies and platforms.
+ 
 • Seeking to secure a position where application support/development and data analytics skills can 
  be well utilized.
 
